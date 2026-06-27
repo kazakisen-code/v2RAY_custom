@@ -1,0 +1,6 @@
+name = "my-vless-worker"
+compatibility_date = "2026-06-27"
+
+[vars]
+UUID = "your-uuid-here"
+PATH = "/"
